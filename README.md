@@ -1,5 +1,11 @@
-# METAshell
-METAshell is an innovative tool designed for shell command metadata injection and dynamic one-liner generation.
+# LATEST UPDATE: Ver. Thu/Jan/11/2024 - 16:03 (UTC)
+# THIS PROJECT IS UNDER CONSTANT DEVELOPMENT!
+# METAshell is an innovative tool designed for shell command metadata injection and dynamic one-liner generation.
+
+[![Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4-red)](https://github.com/sponsors/git5loxosec) [![Kali Linux Compatible](https://img.shields.io/badge/Kali%20Linux-Compatible-brightgreen)](https://www.kali.org/)
+ <img src="https://camo.githubusercontent.com/f25217d6db3b6cb603d9fb4a2b017a682aae3b1ec5c6ffab653f6cd31eceb73c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446576656c6f7065642532306f6e2d6b616c692532306c696e75782d626c756576696f6c6574"> 
+ ![Language](https://img.shields.io/badge/Language-Bash-green.svg)
+![Static](https://img.shields.io/badge/License-AGPL_3.0-gold.svg)
 
 ![Screenshot_2024-01-11_09_45_54](https://github.com/git5loxosec/METAshell/assets/137344845/8a824d6a-64fe-4365-9f93-22ee0f307af2)
 Help.
