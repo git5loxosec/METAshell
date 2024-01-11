@@ -21,26 +21,22 @@ Injection completed!
 # Clone the repository
 ```
 git clone https://github.com/your-repo/METAshell.git
-
 ```
 
 # Navigate to the METAshell directory
 ```
 cd METAshell
-
 ```
 
 # Make the script executable
 ```
 chmod +x METAshell.sh
-
 ```
 
 # Usage
 
 ```
 ./METAshell.sh [OPTIONS] <filename> <URL>
-
 ```
 
 # Options:
