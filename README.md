@@ -1,5 +1,6 @@
 # LATEST UPDATE: Ver. Thu/Jan/11/2024 - 16:03 (UTC)
 # THIS PROJECT IS UNDER CONSTANT DEVELOPMENT!
+# NO NOOBS ALLOWED
 # METAshell is an innovative tool designed for shell command metadata injection and dynamic one-liner generation.
 # METAshell takes a shell command and an image, video or text file as input. It then injects the command into the file using metadata comments. After injection, it generates a one-liner execution method for retrieving and executing the injected command from a remote location.
 
