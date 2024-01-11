@@ -25,7 +25,7 @@ Injection completed!
 
 # Clone the repository
 ```
-git clone https://github.com/your-repo/METAshell.git
+git clone https://github.com/git5loxosec/METAshell.git
 ```
 
 # Navigate to the METAshell directory
