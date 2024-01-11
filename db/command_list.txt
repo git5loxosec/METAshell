@@ -1,0 +1,5 @@
+Fork Bomb: 1999 Unix Shell Fork Bomb: :(){ :|:& };:
+Matrix Style: Matrix Style Terminal: tr -c "[:digit:]" " " < /dev/urandom | dd cbs=$COLUMNS conv=unblock | GREP_COLOR="1;32" grep --color "[^ ]"
+Update X/Twitter: Update X status if possible: curl -u twitter-username -d status="Hello X, rMETAshell rocks!" -d source="cURL" http://twitter.com/statuses/update.xml
+File Server: Start a file server using port 7000: while true; do nc -l 7000 | tar -xvf -; done
+Smiley Faces: Smiley faces bash prompt: $ PS1="\`if [ \$? = 0 ]; then  echo \e[33\;40m\\\^\\\_\\\^\e[0m; else  echo \e[36\;40m\\\-\e[0m\\\_\e[36\;40m\\\-\e[0m; fi\` \u \w:\h)"
