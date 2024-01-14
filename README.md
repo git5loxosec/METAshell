@@ -1,3 +1,5 @@
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=git5loxosec.METAshell)
+
 # LATEST UPDATE: Ver. Thu/Jan/11/2024 - 16:03 (UTC)
 # THIS PROJECT IS UNDER CONSTANT DEVELOPMENT!
 # NO NOOBS ALLOWED
