@@ -1,4 +1,4 @@
-![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2Fgit5loxosec%2FMETAshell%2F&label=Repo%20visits&countColor=%23263759)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fgit5loxosec%2FMETAshell%2F&label=Repo%20visits&countColor=%23263759)
 
 # LATEST UPDATE: Ver. Thu/Jan/11/2024 - 16:03 (UTC)
 # THIS PROJECT IS UNDER CONSTANT DEVELOPMENT!
