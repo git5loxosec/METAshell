@@ -62,7 +62,7 @@ File Format Compatibility
 Lists of compatible media and text file formats are provided to ensure reliable injection.
 
 # Video tutorial:
-![METAshell video tutorial](https://youtu.be/7xNA4ZPm0d0?si=BKPXezf5X5T3gTvl)
+[![METAshell video tutorial](https://youtu.be/7xNA4ZPm0d0?si=BKPXezf5X5T3gTvl)]
 
 # Contributing
 Contributions are what make the open-source community an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
