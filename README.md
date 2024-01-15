@@ -1,6 +1,6 @@
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fgit5loxosec%2FMETAshell%2F&label=Repo%20visits&countColor=%23263759)
 
-# LATEST UPDATE: Ver. Thu/Jan/11/2024 - 16:03 (UTC)
+# LATEST UPDATE: Ver. Thu/Jan/15/2024 - 22:47:45 UTC
 # THIS PROJECT IS UNDER CONSTANT DEVELOPMENT!
 # NO NOOBS ALLOWED
 # METAshell is an innovative tool designed for shell command metadata injection and dynamic one-liner generation.
@@ -60,6 +60,9 @@ chmod +x METAshell.sh
 <URL>                URL to upload the file.
 File Format Compatibility
 Lists of compatible media and text file formats are provided to ensure reliable injection.
+
+# Video tutorial:
+![METAshell video tutorial](https://youtu.be/7xNA4ZPm0d0?si=BKPXezf5X5T3gTvl)
 
 # Contributing
 Contributions are what make the open-source community an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
