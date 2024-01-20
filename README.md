@@ -71,4 +71,5 @@ Contributions are what make the open-source community an amazing place to learn,
 METAshell is intended for educational and ethical use only. Any misuse of this tool for malicious activities is strictly prohibited.
 
 # Special Thanks and contributors
-[![CyberCoral](https://avatars.githubusercontent.com/u/146016829?v=4)](https://github.com/CyberCoral)
+[![CyberCoral](![image](https://github.com/git5loxosec/METAshell/assets/137344845/cd90b3ce-7074-4fff-84ce-36dd90c04b37)
+)](https://github.com/CyberCoral)
