@@ -42,13 +42,13 @@ cd METAshell
 
 # Make the script executable
 ```
-chmod +x METAshell.sh
+chmod +x metashell.sh
 ```
 
 # Usage
 
 ```
-./METAshell.sh [OPTIONS] <filename> <URL>
+./metashell.sh [OPTIONS] <filename> <URL>
 ```
 
 # Options:
