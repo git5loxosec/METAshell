@@ -1,1 +1,0 @@
-txt log md html htm xml json csv tsv sql yml yaml ini cfg conf properties prop props bat sh bash zsh ps1 py rb pl php js jsx ts java c cpp h cs vb swift kt rust go scala lua r scss sass less styl plsql psql tsql vbs vba tex latex ltx bib rtf doc docx xls xlsx ppt pptx pdf

